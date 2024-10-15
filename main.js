@@ -15,9 +15,12 @@ function getPlace(lat, lon) {
 
             let content = 
             `
-                Town: ${town} <br>
-                Region: ${data.address.region} <br>
-                State: ${data.address.state} <br>
+                <div>Town: ${town}</div>
+                <div>Region: ${data.address.region}</div>
+                <div>State: ${data.address.state}</div>
+                <div>---------------------</div>
+                <div>Display Name: ${data?.display_name}</div>
+
             `;
 
             div.innerHTML = content;
