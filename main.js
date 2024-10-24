@@ -66,3 +66,5 @@ function handleError(error) {
 }
 
 getGeolocation();
+
+// this is the change
