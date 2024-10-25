@@ -1,0 +1,111 @@
+Account
+    email
+    username
+    password
+
+budget
+    money amount
+    span
+        - daily
+        - weekly
+        - monthly
+    transportation
+        - peer
+        - gas
+    foods (Meal planning)
+        - breakfast
+        - lunch
+        - dinner
+        - snacks
+    billing
+        - electricity
+        - water
+        - appartment
+    groceries
+    possible savings
+
+recommendations
+    food
+    saving
+        - tips
+        - goals
+    Ways to save
+    reminders
+        - billing
+        - custom reminders
+
+expenses
+    log expenses
+        - groceries
+        - foods
+        - transportation
+        - billing
+    add money
+
+
+----- FEATURES ------
+
+Home (Dashboard)
+    budget overview
+    expenses summary
+    reminders
+    budget adjustment suggestion
+    expenses logging shortcut
+    calendar view for money span
+
+    menu
+        - history
+
+Account (Profile)
+    - log out
+    - change Account
+    - edit profile
+    - account 
+        - change password
+        - change usernamme
+
+    menu
+        history
+        account
+        add schedule        
+
+-- defination --
+
+Bugdet overview
+    total amount
+    money spent
+    remaining balance
+
+Expenses summary by categories
+    food
+    transportation
+    billing
+    or can add other categories
+
+Reminders
+    billing
+    daily expense log
+
+Budget adjustment suggestion
+    Meal plan
+    Savings
+
+Calendar
+    View of money span
+
+
+Add schedule requirements
+    Budget amount
+    Budget period
+        - weekly
+        - monthly
+        - custom
+    Food preferences
+    Priority spending
+    Transportation
+    Billing
+
+
+
+
+
